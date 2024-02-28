@@ -1,2 +1,2 @@
 # Matrix-2D-Coderbyte
-A code challenge
+Simple algorithm to solve a code challenge
